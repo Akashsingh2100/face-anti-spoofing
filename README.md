@@ -6,7 +6,7 @@ The project replicates the findings of the research paper "Progressive Transfer 
 
 Face Anti-Spoofing System Using CNN (ResNet-18) | PyTorch, Deep Learning
 
-This project focuses on enhancing face authentication security by implementing a progressive learning approach for face anti-spoofing, based on a CNN architecture (ResNet-18). The model leverages both labeled and pseudo-labeled data in a semi-supervised learning setup to iteratively improve performance. This approach has demonstrated enhanced robustness against attacks from unseen faces, surpassing traditional supervised methods in handling domain shifts.
+This project focuses on enhancing face authentication security by implementing a progressive learning approach for face anti-spoofing, based on a CNN architecture (ResNet-18). The model leverages both labeled and pseudo-labeled data in a semi-supervised learning setup to iteratively improve performance.
 
 Keywords: Face recognition, Transfer learning, Progressive learning, Face anti-spoofing, Semi-supervised learning, CNN, ResNet-18.
 
